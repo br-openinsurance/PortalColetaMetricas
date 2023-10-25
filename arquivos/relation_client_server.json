@@ -1,0 +1,362 @@
+[
+  {
+    "organisationId": "d818515a-93a1-454c-ac0f-71d3404bb1bb",
+    "authorisationServerId": "232c7d51-fb25-4c1b-b4d9-c6bda3740ceb",
+    "serverName": "ALLIANZ SEGUROS",
+    "relationshipId": "09e8d807-4157-4d60-ad2a-56e67787a79d",
+    "clientId": "09e8d807-4157-4d60-ad2a-56e67787a79d",
+    "clientName": "Allianz Seguros"
+  },
+  {
+    "organisationId": "5fc77501-6315-45b5-a278-9fe51031009b",
+    "authorisationServerId": "64079c20-c1c9-495c-ae6f-d597b99b2a11",
+    "serverName": "Austral Seguradora",
+    "relationshipId": "00cba7db-6924-4a0b-b0d1-b71a6f3ecfbf",
+    "clientId": "00cba7db-6924-4a0b-b0d1-b71a6f3ecfbf",
+    "clientName": "AUSTRAL SEGURADORA"
+  },
+  {
+    "organisationId": "b8268328-90da-4baa-a1aa-2e860d482d01",
+    "authorisationServerId": "0e2b6cb8-8e17-49d3-83cf-0ef233aecd2f",
+    "serverName": "Bradesco Seguros",
+    "relationshipId": "b7de1a19-56df-4ac8-ae9a-67855e1cf065",
+    "clientId": "b7de1a19-56df-4ac8-ae9a-67855e1cf065",
+    "clientName": "Bradesco Seguros"
+  },
+  {
+    "organisationId": "ba97cd17-df3b-46a5-a952-92af75d271a0",
+    "authorisationServerId": "aabfa1a0-65df-49dc-b1f3-bccdeec87e45",
+    "serverName": "Brasilcap",
+    "relationshipId": "0e1843ba-5022-41bc-8007-f0e1a52d97b0",
+    "clientId": "0e1843ba-5022-41bc-8007-f0e1a52d97b0",
+    "clientName": "Brasilcap"
+  },
+  {
+    "organisationId": "402055ff-3f85-4264-aaf0-689b5baaf777",
+    "authorisationServerId": "487e779e-2ff4-4836-90a3-24f437590c65",
+    "serverName": "Brasilprev",
+    "relationshipId": "f78e2c13-0b29-4ed2-8233-fe7d32bd2627",
+    "clientId": "f78e2c13-0b29-4ed2-8233-fe7d32bd2627",
+    "clientName": "Brasilprev Seguros e Previdência"
+  },
+  {
+    "organisationId": "14152605-0e0d-4d92-9698-07a402fb2bc1",
+    "authorisationServerId": "6789c6f0-43f2-4c14-bfa5-fc266e911fb3",
+    "serverName": "BRASILSEG COMPANHIA DE SEGUROS",
+    "relationshipId": "604e698e-7907-4f89-917c-1729a1505ff4",
+    "clientId": "604e698e-7907-4f89-917c-1729a1505ff4",
+    "clientName": "BBSeguros"
+  },
+  {
+    "organisationId": "4dc94acc-1041-49be-8694-2e02271afe9b",
+    "authorisationServerId": "a33a6104-41a8-4454-938b-9a3d8a496ede",
+    "serverName": "BTG PACTUAL SEGUROS",
+    "relationshipId": "e305e145-e2a2-4d15-83d5-b427260402ef",
+    "clientId": "e305e145-e2a2-4d15-83d5-b427260402ef",
+    "clientName": "BTG Pactual Seguros"
+  },
+  {
+    "organisationId": "e4ce735f-e521-40f6-a7f7-8a01244c80b1",
+    "authorisationServerId": "2783105b-e064-494a-b308-2d8946a79598",
+    "serverName": "BTG PACTUAL VIDA E PREVIDENCIA",
+    "relationshipId": "13c2c6af-72b9-4211-bdc1-57546173b246",
+    "clientId": "13c2c6af-72b9-4211-bdc1-57546173b246",
+    "clientName": "BTG Pactual Vida e Previdencia"
+  },
+  {
+    "organisationId": "a5d4521d-945f-4ce6-8322-9999a8e538fa",
+    "authorisationServerId": "02825ba8-7143-4eec-a10c-e65e2a34df67",
+    "serverName": "Caixa Capitalização",
+    "relationshipId": "dc3dc544-5cf4-4ef4-9567-360c4614459a",
+    "clientId": "dc3dc544-5cf4-4ef4-9567-360c4614459a",
+    "clientName": "Caixa Capitalização"
+  },
+  {
+    "organisationId": "2189f87c-73e6-4a6d-b330-4bbc62f4da3b",
+    "authorisationServerId": "a1e66b30-1c24-4bc1-b52b-d5d26b75f65c",
+    "serverName": "Caixa Residencial - XS3",
+    "relationshipId": "2325dc7f-6bfd-4e88-bd38-aa8c05498405",
+    "clientId": "2325dc7f-6bfd-4e88-bd38-aa8c05498405",
+    "clientName": "Sensedia Test OIDF 1"
+  },
+  {
+    "organisationId": "0a817f20-6a3b-40db-b9d4-2595cb951465",
+    "authorisationServerId": "f4f24755-6ced-4bb9-b13a-151940925f6c",
+    "serverName": "Caixa Seguradora",
+    "relationshipId": "b1cf2071-82d4-4904-9d03-9ecc7ac9b942",
+    "clientId": "b1cf2071-82d4-4904-9d03-9ecc7ac9b942",
+    "clientName": "Caixa Seguradora"
+  },
+  {
+    "organisationId": "abb4cf37-3e3f-48fa-983b-18994e4ec3f9",
+    "authorisationServerId": "612f33a3-8629-47fe-9276-ce68ec917397",
+    "serverName": "Caixa Vida e Previdência",
+    "relationshipId": "a447d8ab-5c24-4c90-9fc3-39510116ef56",
+    "clientId": "a447d8ab-5c24-4c90-9fc3-39510116ef56",
+    "clientName": "CAIXA VIDA E PREVIDENCIA SA"
+  },
+  {
+    "organisationId": "2128fd85-bff7-47c8-a970-d7b327e13fea",
+    "authorisationServerId": "e8e2bd33-c952-450f-987d-34d66844dfcb",
+    "serverName": "CARDIF DO BRASIL SEGUROS E GARANTIAS S.A.",
+    "relationshipId": "59065abb-00d7-4ce7-ade0-df52cc29071d",
+    "clientId": "59065abb-00d7-4ce7-ade0-df52cc29071d",
+    "clientName": "CARDIF DO BRASIL SEGUROS E GARANTIAS S.A."
+  },
+  {
+    "organisationId": "96db86cb-10c3-42ac-90bc-0a4fb6fbdac5",
+    "authorisationServerId": "0196dbb4-e8c1-47d4-8963-b491da43b555",
+    "serverName": "CARDIF DO BRASIL VIDA E PREVIDÊNCIA LTDA",
+    "relationshipId": "7141e209-cc90-4ab0-a2b1-2ab8a4685172",
+    "clientId": "7141e209-cc90-4ab0-a2b1-2ab8a4685172",
+    "clientName": "CARDIF DO BRASIL VIDA E PREVIDÊNCIA LTDA"
+  },
+  {
+    "organisationId": "ff2044d1-db1d-44dd-a845-3cb33b706ad4",
+    "authorisationServerId": "7ea82f0f-f6af-46db-a6e4-8b84472c7322",
+    "serverName": "CHUBB SEGUROS BRASIL S.A.",
+    "relationshipId": "925516e7-1088-44cc-b19f-e5d46ba7bc9d",
+    "clientId": "925516e7-1088-44cc-b19f-e5d46ba7bc9d",
+    "clientName": "CHUBB SEGUROS BRASIL S.A."
+  },
+  {
+    "organisationId": "30f332b7-4fda-48eb-b9fe-4e69b1518af3",
+    "authorisationServerId": "b6716245-64b6-4f5b-961d-436c6e536d8d",
+    "serverName": "CNP Capitalização",
+    "relationshipId": "9ea41fe1-a5db-4bbf-af59-59f5474dc594",
+    "clientId": "9ea41fe1-a5db-4bbf-af59-59f5474dc594",
+    "clientName": "Caixa Capitalização"
+  },
+  {
+    "organisationId": "eaca1af8-5912-11ed-9b6a-0242ac120002",
+    "authorisationServerId": "0e1d3252-1d19-43ec-addc-83feb849af46",
+    "serverName": "DarwinSeguros",
+    "relationshipId": "6a201df1-e54d-49ee-9287-aed7b526e488",
+    "clientId": "6a201df1-e54d-49ee-9287-aed7b526e488",
+    "clientName": "Darwin Seguros"
+  },
+  {
+    "organisationId": "cafb3dfc-296b-4d1e-b07e-8c5c6cfb65a4",
+    "authorisationServerId": "3ca8965b-ea62-4311-bf63-f566186f2fee",
+    "serverName": "Evidence",
+    "relationshipId": "c15ed9d1-956e-4b59-b473-67e5b349e7ba",
+    "clientId": "c15ed9d1-956e-4b59-b473-67e5b349e7ba",
+    "clientName": "Santander"
+  },
+  {
+    "organisationId": "716d90a7-58b8-4146-97f3-8ca9dd88f92d",
+    "authorisationServerId": "a04b3215-f0a6-44a0-80f3-1d493b0eff3e",
+    "serverName": "HDI Global",
+    "relationshipId": "abea9afe-b429-48aa-99a3-f2767f14bd08",
+    "clientId": "abea9afe-b429-48aa-99a3-f2767f14bd08",
+    "clientName": "HDI Global"
+  },
+  {
+    "organisationId": "716d90a7-58b8-4146-97f3-8ca9dd88f92d",
+    "authorisationServerId": "7c31da9b-3411-4694-84be-598a0aadd3c3",
+    "serverName": "HDI Seguros",
+    "relationshipId": "786969fd-151f-4fe7-9663-fbd6d5a955ff",
+    "clientId": "786969fd-151f-4fe7-9663-fbd6d5a955ff",
+    "clientName": "HDI Seguros"
+  },
+  {
+    "organisationId": "555ae154-aa38-4679-902a-e7d5a9a37bfc",
+    "authorisationServerId": "bb05fd28-1718-4c07-98c2-318bf0059fb0",
+    "serverName": "ICATU SEGUROS S.A",
+    "relationshipId": "ad768203-b5ea-483c-a474-33db499dd9db",
+    "clientId": "ad768203-b5ea-483c-a474-33db499dd9db",
+    "clientName": "ICATU SEGUROS S.A"
+  },
+  {
+    "organisationId": "461f5ab7-e61c-4ad5-a04d-575ba7d66ebb",
+    "authorisationServerId": "757729e4-3862-469c-ba10-ff6181f1c466",
+    "serverName": "INDIANA SEGUROS",
+    "relationshipId": "62b793d5-d3c8-4447-bb31-8c6eb54c5744",
+    "clientId": "62b793d5-d3c8-4447-bb31-8c6eb54c5744",
+    "clientName": "INDIANA SEGUROS"
+  },
+  {
+    "organisationId": "0d7b810c-9546-4745-9e61-4685cbc9c8b9",
+    "authorisationServerId": "a9115c97-a7a4-4863-8829-51345bb31052",
+    "serverName": "ITAU SEGUROS S.A.",
+    "relationshipId": "ba7ce154-7da8-40c3-ad7d-a154692f2597",
+    "clientId": "ba7ce154-7da8-40c3-ad7d-a154692f2597",
+    "clientName": "ITAU SEGUROS S.A."
+  },
+  {
+    "organisationId": "b19d0834-d2d2-4898-9029-7312b2c79e64",
+    "authorisationServerId": "8905558c-745e-4c04-b930-b464015fd761",
+    "serverName": "Justos",
+    "relationshipId": "bfda526d-235b-486b-a791-b2fa0d32f4cc",
+    "clientId": "bfda526d-235b-486b-a791-b2fa0d32f4cc",
+    "clientName": "Justos"
+  },
+  {
+    "organisationId": "4b68b713-5627-4f80-b7ba-70a0e290bb25",
+    "authorisationServerId": "96893dd7-31da-4aae-8b8b-3527fdf0b7ef",
+    "serverName": "LIBERTY SEGUROS",
+    "relationshipId": "94180d85-1211-4ca6-9f54-da0cf23b5821",
+    "clientId": "94180d85-1211-4ca6-9f54-da0cf23b5821",
+    "clientName": "Liberty Seguros"
+  },
+  {
+    "organisationId": "7008df82-90c8-494f-8cab-e576234f3114",
+    "authorisationServerId": "ddcbe963-6912-4ade-8f71-17e71569b81d",
+    "serverName": "LUIZASEG SEGUROS S.A.",
+    "relationshipId": "fffd646a-f450-404c-937e-35b1ad42070c",
+    "clientId": "fffd646a-f450-404c-937e-35b1ad42070c",
+    "clientName": "LUIZASEG SEGUROS S.A."
+  },
+  {
+    "organisationId": "be28e108-03e5-40bd-908c-1c146ad04aa5",
+    "authorisationServerId": "e60bf203-4cde-4a66-a7a0-f8cdca5a3006",
+    "serverName": "MAPFRE SEGUROS GERAIS",
+    "relationshipId": "ddd9c942-9a01-40a0-899a-2e52e95f4716",
+    "clientId": "ddd9c942-9a01-40a0-899a-2e52e95f4716",
+    "clientName": "MAPFRE SEGUROS GERAIS"
+  },
+  {
+    "organisationId": "e28c856b-3335-4e49-8038-8d178a6c2d95",
+    "authorisationServerId": "3e079319-1bf2-4264-a848-8f13856908a4",
+    "serverName": "Neo Seguradora",
+    "relationshipId": "3ae396c1-0672-4f85-ab9d-47cd9f9df875",
+    "clientId": "3ae396c1-0672-4f85-ab9d-47cd9f9df875",
+    "clientName": "Neo"
+  },
+  {
+    "organisationId": "003b394b-a01c-4d60-bb28-5fd3a195b7d1",
+    "authorisationServerId": "6b2b7557-8f3a-4090-b683-27ed5f1f90a2",
+    "serverName": "Porto Seguro",
+    "relationshipId": "2f602e6f-c5d0-44e6-883e-39c75af6479a",
+    "clientId": "2f602e6f-c5d0-44e6-883e-39c75af6479a",
+    "clientName": "Porto Seguro"
+  },
+  {
+    "organisationId": "7a6da246-cb4b-4c55-9ebb-e3c72c6d210e",
+    "authorisationServerId": "36024f51-1e1c-4553-85fb-56487642bf7c",
+    "serverName": "Previsul",
+    "relationshipId": "95b7f5e9-92a1-450c-99a1-a3c04296c1f5",
+    "clientId": "95b7f5e9-92a1-450c-99a1-a3c04296c1f5",
+    "clientName": "Previsul"
+  },
+  {
+    "organisationId": "21555144-afca-4672-9a29-6a89b1c72894",
+    "authorisationServerId": "6dd64efa-8ae4-499d-a675-3c2b21cb14f7",
+    "serverName": "PRUDENTIAL DO BRASIL",
+    "relationshipId": "3645ac3f-9e85-4582-b961-ff0b75014fb3",
+    "clientId": "3645ac3f-9e85-4582-b961-ff0b75014fb3",
+    "clientName": "PRUDENTIAL DO BRASIL"
+  },
+  {
+    "organisationId": "7cd7d76f-322d-44f5-9282-d4f71bb78e7c",
+    "authorisationServerId": "e9b4f047-dddb-46a3-9e9c-b0a035b8685d",
+    "serverName": "RIO GRANDE SEGUROS E PREVIDENCIA S.A",
+    "relationshipId": "561af0ba-338e-43b7-a215-27bea740d35f",
+    "clientId": "561af0ba-338e-43b7-a215-27bea740d35f",
+    "clientName": "RIO GRANDE SEGUROS E PREVIDENCIA S.A"
+  },
+  {
+    "organisationId": "a14bc1e1-5820-4368-b029-df7c8578eb11",
+    "authorisationServerId": "a92ecc9c-1fd8-4a56-9411-b00f98a4b764",
+    "serverName": "Safra Seguros (Clientes PF)",
+    "relationshipId": "6bb4cc99-1eb1-4862-9035-700358e68e10",
+    "clientId": "6bb4cc99-1eb1-4862-9035-700358e68e10",
+    "clientName": "SAFRA Seguros Gerais SA"
+  },
+  {
+    "organisationId": "b11efb72-fb06-4fa0-b305-5ac96f3ec75e",
+    "authorisationServerId": "a0765453-8512-452f-b0ad-f622f13a22c8",
+    "serverName": "Santander Auto",
+    "relationshipId": "2285c440-6c1b-4349-95f2-8b5cd8630356",
+    "clientId": "2285c440-6c1b-4349-95f2-8b5cd8630356",
+    "clientName": "Santander Auto"
+  },
+  {
+    "organisationId": "83561fbf-f05b-429d-81c7-b066561be813",
+    "authorisationServerId": "b5e2457a-c58e-4783-8d70-269fc995a7ab",
+    "serverName": "Santander Capitalização",
+    "relationshipId": "ed9eabbf-af2d-4846-9614-c45c7891e017",
+    "clientId": "ed9eabbf-af2d-4846-9614-c45c7891e017",
+    "clientName": "SANTANDER"
+  },
+  {
+    "organisationId": "7835c755-90b6-4dcf-85aa-9bacddf8a3cb",
+    "authorisationServerId": "d50c01b8-7f5e-4144-b6da-697a0ed53a1a",
+    "serverName": "Simple2u Seguros",
+    "relationshipId": "a6677ce5-a0ce-4667-a35f-c24d2e563e39",
+    "clientId": "a6677ce5-a0ce-4667-a35f-c24d2e563e39",
+    "clientName": "Simple2u"
+  },
+  {
+    "organisationId": "1bcb77dc-4192-4602-91c9-b831ddaf4649",
+    "authorisationServerId": "2841d778-0e9f-45d8-9716-5b91198c603e",
+    "serverName": "Sompo Consumer Seguros",
+    "relationshipId": "68cf0458-3cb2-474b-ad2e-127a5936b1be",
+    "clientId": "68cf0458-3cb2-474b-ad2e-127a5936b1be",
+    "clientName": "Sompo Consumer Seguradora S.A."
+  },
+  {
+    "organisationId": "a46dd645-4448-4db0-ad38-a40cf74a4bc0",
+    "authorisationServerId": "0c59196b-f22e-4ea3-b4bc-ffb92c59ed9d",
+    "serverName": "Sompo Seguros",
+    "relationshipId": "67685d66-f4a5-4bd9-aaee-05a176a7b4b8",
+    "clientId": "67685d66-f4a5-4bd9-aaee-05a176a7b4b8",
+    "clientName": "SOMPO SEGUROS"
+  },
+  {
+    "organisationId": "269f214b-9f97-45cc-a902-9a844674ebbd",
+    "authorisationServerId": "537df9df-3778-400e-a0ce-2544761c63cf",
+    "serverName": "SulAmérica Seguros",
+    "relationshipId": "89e99d88-0741-4376-911c-8bbd8b18d4ea",
+    "clientId": "89e99d88-0741-4376-911c-8bbd8b18d4ea",
+    "clientName": "SulAmérica Seguros"
+  },
+  {
+    "organisationId": "a3a2ae32-8450-4c13-a8a6-ecea080dcf98",
+    "authorisationServerId": "433fdd60-2a98-4adb-b5a3-a37407bc00c5",
+    "serverName": "Tokio Marine Seguradora S/A",
+    "relationshipId": "c5042d8f-8058-403d-a795-1cbcd45cd009",
+    "clientId": "c5042d8f-8058-403d-a795-1cbcd45cd009",
+    "clientName": "Tokio Marine Seguradora"
+  },
+  {
+    "organisationId": "9f6ba87e-da50-4063-a840-e69a45edcd73",
+    "authorisationServerId": "009e042b-3016-4d2b-a174-6f3be584b2fe",
+    "serverName": "Too Seguros",
+    "relationshipId": "4363b988-5d70-4272-a166-4448a1f6f0a1",
+    "clientId": "4363b988-5d70-4272-a166-4448a1f6f0a1",
+    "clientName": "TOO SEGUROS OPEN INSURANCE"
+  },
+  {
+    "organisationId": "90be54ba-a5d7-4bf6-949e-0c44dc45f66f",
+    "authorisationServerId": "7b59b7e9-21f8-4a25-b0fe-d8edb5fec85e",
+    "serverName": "XP VIDA E PREVIDÊNCIA S.A",
+    "relationshipId": "7236dc98-6922-42b2-a050-dcab498ad120",
+    "clientId": "7236dc98-6922-42b2-a050-dcab498ad120",
+    "clientName": "XP Seguros"
+  },
+  {
+    "organisationId": "0a817f20-6a3b-40db-b9d4-2595cb951465",
+    "authorisationServerId": "834f8311-b943-426b-aeb4-414d9f1212e0",
+    "serverName": "Youse",
+    "relationshipId": "d00de75d-cbbb-4361-8a84-298a65df681a",
+    "clientId": "d00de75d-cbbb-4361-8a84-298a65df681a",
+    "clientName": "Youse"
+  },
+  {
+    "organisationId": "260e6fb4-e2e3-47b1-b20c-a45753ddf4a5",
+    "authorisationServerId": "cfcb9634-6ae7-4c07-9e6a-19a01770c3bb",
+    "serverName": "ZURICH BRASIL COMPANHIA DE SEGUROS",
+    "relationshipId": "7c4503a5-f19c-43bf-ad04-9bcb0af194aa",
+    "clientId": "7c4503a5-f19c-43bf-ad04-9bcb0af194aa",
+    "clientName": "ZURICH MINAS BRASIL SEGUROS S/A"
+  },
+  {
+    "organisationId": "e31d7750-51e9-4e68-8d9d-dd2fa4b532a4",
+    "authorisationServerId": "daf31f15-065a-4f1b-8fd2-0480af6349ab",
+    "serverName": "Zurich Santander Seguros",
+    "relationshipId": "f8a79265-6261-47f4-b38c-b96a9d2b8f77",
+    "clientId": "f8a79265-6261-47f4-b38c-b96a9d2b8f77",
+    "clientName": "ZURICH SANTANDER BRASIL SEGUROS E PREVIDENCIA S.A."
+  }
+]
